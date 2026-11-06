@@ -1,0 +1,6 @@
+{
+  "name": "Aroma Karsa — Toko Roti & Pastry",
+  "description": "Aplikasi toko roti artisanal dengan pemesanan segar langsung dari oven dan pembayaran e-wallet QRIS serta barcode digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
